@@ -22,7 +22,7 @@ Step 3:
 Paste $ git clone <HTTPS URL>
 ```    
 
-
+..
  <img src='images/img1.jpg'>
 
 
